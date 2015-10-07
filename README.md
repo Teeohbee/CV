@@ -1,16 +1,17 @@
-## Your Name
+## Toby Clarke
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+(No idea what to write here) A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills
 
-#### This Skill
+#### Code Examples
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
+|Project | Description | Key Learning |
+|--------|-------------|---------------|
+| Instagram Clone | An app that aims to duplicate the functionality of the image-sharing site Instagram, including users, photo uploads, comments and likes | To-Do |
+| Chitter | A clone of basic twitter functionality, built using a lean ruby and sinatra set up with deployment on heroku | |
+| Beerstalker | Built as part of a 2-day 'Makerthon', this Angular web app uses the Meetup API to find events near you providing free beer | |
+| rand(Cast) | Developed as a final project at Makers Academy, rand(Cast) is an iOS/Android app that provides a new way to discover new podcasts. Built using Ionic and Angular  | |
 
 #### Another Skill
 
@@ -23,26 +24,29 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (July 2015 - October 2015)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- Developed my curiosity and love of code and the tech landscape
+- A focus on independent learning and problem-solving
+- Taught coding best practices, in acronym form: OOP, TDD, BDD, MVP, SOLID, MVC
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript, jQuery, Angular.js, Sinatra
+- Rspec, Jasmine, Protractor, Karma, Capybara, Cucumber
 
-#### Your University / College (start_date to end_date)
+#### University of Portsmouth (September 2005 – July 2009)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
+* BA Honours Business Administration (2.2)
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**The Independent Online** (Ongoing)  
+*Games Reviewer (Voluntary)*
+
+**Concerto Group** (March 2015 - June 2015)   
+*Growth Hacker Internship*
+
+**We R Interactive** (June 2014 - January 2015)   
+*Gameplay and Data Coordinator*
+
+**M-Biz Global** (September 2009 - December 2013)    
+*Accounts Receivable Assistant Manager*  
