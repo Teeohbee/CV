@@ -1,17 +1,17 @@
 ## Toby Clarke
 
-A former book-keeper who grew tired of having to ask other developers to automate repetitive tasks. Having completed an intense 12 week coding bootcamp at Makers Academy, has fallen for the charms of coding and software development. Seeking an entry-level position with a focus on the best of coding practices, continued support, learning and innovation. 
+A former book-keeper who grew tired of having to ask other developers to automate repetitive tasks. Having completed an intense 12 week coding bootcamp at Makers Academy, has now fallen for the charms of coding and software development. Looking for a back-end or full-stack role in an exciting and forward-thinking company where I can utilise my newly acquired skills and continue to develop and grow as a coder.
 
 ## Skills
 
 #### Web Development
-
-|Project | Description | Key Learning | Technology |
-|--------|-------------|---------------|-----------|
-| Instagram Clone | An app that aims to duplicate the functionality of the image-sharing site Instagram, including users, photo uploads, comments and likes | To-Do | |
-| Chitter | A clone of basic twitter functionality, built using a lean ruby and sinatra set up with deployment on heroku | | |
-| Beerstalker | Built as part of a 2-day 'Makerthon', this Angular web app uses the Meetup API to find events near you providing free beer | | |
-| rand(Cast) | Developed as a final project at Makers Academy, rand(Cast) is an iOS/Android app that provides a new way to discover new podcasts. Built using Ionic and Angular  | | |
+Four of my favourite projects developed during my time at Makers Academy  
+| Project | Description | Technology |
+| ------- | ----------- | ---------- |
+| Instagram Clone | Allows users to register, post photos, comment and like others photos | Ruby on Rails, Paperclip |
+| Tobester | A twitter-like social status sharing app | Ruby, Sinatra, Heroku, Rspec, Capybara |
+| Beerstalker | A web app that provides local meet-ups providing free  | |
+| rand(Cast) | A mobile app to aid and simplify podcast discovery, built for my final project | |
 
 #### Management and Team Working
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
