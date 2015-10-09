@@ -1,6 +1,6 @@
 ## Toby Clarke
 
-A fresh faced web developer. Having completed an intense 12 week coding bootcamp at Makers Academy, has fallen for the charms of coding and software development. Looking for a back-end or full-stack role in an exciting and forward-thinking company where I can utilise my newly acquired skills and continue to develop and grow as a coder.
+Fresh faced and eager junior web developer. Having completed an intense 12 week coding bootcamp at Makers Academy, has fallen for the charms of coding and software development. Looking for a back-end or full-stack role in an exciting and forward-thinking company where I can utilise my newly acquired skills and continue to develop and grow as a coder.
 
 ## Skills
 
@@ -17,18 +17,16 @@ Four of my favourite projects developed during my time at Makers Academy
 #### Management and Team Working
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
+- Managed and coached two direct reports in managerial role at M-Biz Global including their onboarding process and continued development.
+- Thrives in team environments and _something something something team_
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
 #### Problem Solving
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Enjoyed 'debugging' long before encountering code, in identifying and fixing errors in complex excel spreadsheets and financial calculations whilst at M-Biz Global.
+- Continued to develop the skill at Makers Academy, enjoying the process of systematically working through a problem, providing innovative solutions.
 
 #### Analytical
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
