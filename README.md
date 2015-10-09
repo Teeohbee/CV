@@ -9,10 +9,10 @@ Four of my favourite projects developed during my time at Makers Academy
 
 | Project  | Description  | Technology  |
 |---|---|---|
-| Instawhoah! | Allows users to register, post photos, comment and like others photos  | Ruby on Rails, Paperclip  |
-| Tobester  | A twitter-like social status sharing app  | Ruby, Sinatra, Heroku, Rspec, Capybara  |
-| Beerstalker  |  A web app that provides local meet-ups providing free | AngularJS, Meetep API  |
-| rand(Cast)  | A mobile app to aid and simplify podcast discovery, built for my final project  | Ionic, AngularJS, Ruby, Sinatra, Heroku  |
+| [Instawhoah!](https://github.com/Teeohbee/instagram-challenge) | Allows users to register, post photos, comment and like others photos  | Ruby on Rails, Paperclip  |
+| [Tobester](https://github.com/Teeohbee/chitter-challenge)  | A twitter-like social status sharing app  | Ruby, Sinatra, Heroku, Rspec, Capybara  |
+| [Beerstalker](https://github.com/reteshbajaj/BeerStalker)  |  A web app that provides local meet-ups providing free | AngularJS, Meetep API  |
+| [rand(Cast)](https://github.com/ShuflCast/randCast)  | A mobile app to aid and simplify podcast discovery, built for my final project  | Ionic, AngularJS, Ruby, Sinatra, Heroku  |
 
 #### Management and Team Working
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
