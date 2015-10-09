@@ -1,15 +1,15 @@
 ## Toby Clarke
 
-A former book-keeper who grew tired of having to ask other developers to automate repetitive tasks. Having completed an intense 12 week coding bootcamp at Makers Academy, has now fallen for the charms of coding and software development. Looking for a back-end or full-stack role in an exciting and forward-thinking company where I can utilise my newly acquired skills and continue to develop and grow as a coder.
+A fresh faced web developer. Having completed an intense 12 week coding bootcamp at Makers Academy, has fallen for the charms of coding and software development. Looking for a back-end or full-stack role in an exciting and forward-thinking company where I can utilise my newly acquired skills and continue to develop and grow as a coder.
 
 ## Skills
 
 #### Web Development
 Four of my favourite projects developed during my time at Makers Academy  
 
-| Project  | Description  | Technology  | 
+| Project  | Description  | Technology  |
 |---|---|---|
-| Instasnap | Allows users to register, post photos, comment and like others photos  | Ruby on Rails, Paperclip  |
+| Instawhoah! | Allows users to register, post photos, comment and like others photos  | Ruby on Rails, Paperclip  |
 | Tobester  | A twitter-like social status sharing app  | Ruby, Sinatra, Heroku, Rspec, Capybara  |
 | Beerstalker  |  A web app that provides local meet-ups providing free | AngularJS, Meetep API  |
 | rand(Cast)  | A mobile app to aid and simplify podcast discovery, built for my final project  | Ionic, AngularJS, Ruby, Sinatra, Heroku  |
