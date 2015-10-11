@@ -25,7 +25,7 @@ Four of my favourite projects developed during my time at Makers Academy
 
 #### Management and Team Working
 - Mentored and coached two direct reports in managerial role at M-Biz Global including their onboarding process and continued development.
-- Worked with an Agile methodology in all group work at Makers Academy, including final project [rand(Cast)](https://github.com/ShuflCast/randCast) in which I often lead standups and utilised kanban tools like waffle.io to manage distributed code-bases and pairing teams.
+- Worked with an Agile methodology in all group work at Makers Academy, including final project [rand(Cast)](https://github.com/ShuflCast/randCast) in which I often led standups and utilised kanban tools like waffle.io to manage distributed code-bases and pairing teams.
 - Invaluable experience dealing with multi-branched GitHub repos and merge conflicts
 
 #### Problem Solving
