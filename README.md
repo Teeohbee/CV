@@ -32,6 +32,9 @@ Below are four of my favourite projects developed during my time at Makers Acade
 
 ## Education
 
+#### MongoDB University (October 2015 - Ongoing)
+- M101JS: MongoDB for Node.js Developers
+
 #### Makers Academy (July 2015 - October 2015)
 Highly selective twelve week intensive coding bootcamp.
 
