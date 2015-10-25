@@ -24,7 +24,7 @@ Below are four of my favourite projects developed during my time at Makers Acade
 #### Management and Team Working
 - I Mentored and coached two direct reports in managerial role at M-Biz Global including their onboarding process and continued development.
 - I Worked with an Agile methodology in all group work at Makers Academy, including final project [rand(Cast)](https://github.com/ShuflCast/randCast) in which I often led standups and utilised tools such as waffle.io to manage distributed code-bases and pairing teams.
-- I have invaluable experience dealing with multi-branched GitHub repos and merge conflicts
+- I have invaluable experience dealing with multi-branched GitHub repos and merge conflicts.
 
 #### Problem Solving
 - I enjoyed 'debugging' long before encountering code, in identifying and fixing errors in complex excel spreadsheets and financial calculations while in my role as Accounts Receivable Assistant Manager at M-Biz Global.
