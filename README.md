@@ -12,13 +12,15 @@ I have learnt how to build web and mobile apps across two primary language stack
 
 Within this, I have learnt to implement TDD and version control methodologies (e.g. Git) and have a detailed understanding of key testing technologies across many frameworks (e.g. Rspec, Capybara, Jasmine, Karma, Protractor)
 
-Below are four of my favourite projects developed during my time at Makers Academy  
+Everything I have learnt at Makers Academy came to the fore in a recent hackathon. At the [2015 Euromoney Techsprint](http://graduates.euromoneyplc.com/techsprint/), myself and my team won three awards including 'Most Complete Product', 'Best Use Of Technology' and 'Overall Best Project'.
+
+Below are four of my favourite projects developed during my time at Makers Academy and beyond.
 
 | Project  | Description  | Technology  |
 |---|---|---|
 | [Instawhoah!](https://github.com/Teeohbee/instagram-challenge) | An Instagram clone - users can post, like and comment on photos  | Ruby on Rails, Paperclip  |
 | [Tobester](https://github.com/Teeohbee/chitter-challenge)  | A Twitter-like social status sharing app  | Ruby, Sinatra, Heroku, Rspec, Capybara  |
-| [Beerstalker](https://github.com/reteshbajaj/BeerStalker)  |  A web app that sources local meet-ups providing free beer | AngularJS, Meetup API  |
+| [Eurohub](https://github.com/emily-jane/EuroHub)  |  A winning hackathon project aimed at re-imaginging a stale, static intranet | AngularJS, Pusher  |
 | [rand(Cast)](https://github.com/ShuflCast/randCast)  | A mobile app to aid and simplify podcast discovery, built for my final project  | Ionic, AngularJS, Ruby, Sinatra, Heroku  |
 
 #### Management and Team Working
@@ -32,13 +34,10 @@ Below are four of my favourite projects developed during my time at Makers Acade
 
 ## Education
 
-#### MongoDB University (October 2015 - Ongoing)
-- M101JS: MongoDB for Node.js Developers
-
 #### Makers Academy (July 2015 - October 2015)
 Highly selective twelve week intensive coding bootcamp.
 
-- Ignited my curiosity and love of code and the tech landscape
+- Ignited my curiosity, and love, for code and the tech landscape
 - A focus on independent learning and problem-solving
 - Taught coding best practices, in acronym form: OOP, TDD, BDD, MVP, MVC
 - Software Craftsmanship
