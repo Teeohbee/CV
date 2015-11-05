@@ -1,6 +1,6 @@
 # Toby Clarke
 
-I am an eager junior web developer. After a successful four year career in accounting, I wanted to explore a new career path that would utilise both a logical and creative mindset. Having completed an intense twelve week coding bootcamp at Makers Academy, I have fallen for the charms of coding and software development.
+I am an eager junior web developer. After a successful four year career in accounting, I wanted to explore a new career path that would utilise both a logical and creative mindset. Having completed an intense twelve week coding bootcamp at [Makers Academy](http://www.makersacademy.com/), I have fallen for the charms of coding and software development.
 
 I am looking for a back-end or full-stack role in an exciting and forward-thinking company where I can utilise my newly acquired skills and continue to develop and grow as a coder.
 
@@ -20,7 +20,7 @@ Below are four of my favourite projects developed during my time at Makers Acade
 |---|---|---|
 | [Instawhoah!](https://github.com/Teeohbee/instagram-challenge) | An Instagram clone - users can post, like and comment on photos  | Ruby on Rails, Paperclip  |
 | [Tobester](https://github.com/Teeohbee/chitter-challenge)  | A Twitter-like social status sharing app  | Ruby, Sinatra, Heroku, Rspec, Capybara  |
-| [Eurohub](https://github.com/emily-jane/EuroHub)  |  A winning hackathon project aimed at re-imaginging a stale, static intranet | AngularJS, Pusher  |
+| [Eurohub](https://github.com/emily-jane/EuroHub)  |  A winning hackathon project aimed at re-imaginging a static intranet | AngularJS, Pusher  |
 | [rand(Cast)](https://github.com/ShuflCast/randCast)  | A mobile app to aid and simplify podcast discovery, built for my final project  | Ionic, AngularJS, Ruby, Sinatra, Heroku  |
 
 #### Management and Team Working
