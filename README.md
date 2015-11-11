@@ -2,7 +2,7 @@
 
 I am an eager junior web developer. After a successful four year career in accounting, I wanted to explore a new career path that would utilise both a logical and creative mindset. Having completed an intense twelve week coding bootcamp at [Makers Academy](http://www.makersacademy.com/), I have fallen for the charms of coding and software development.
 
-I am looking for a back-end or full-stack role in an exciting and forward-thinking company where I can utilise my newly acquired skills and continue to develop and grow as a coder.
+I am looking for a back-end or full-stack role in an exciting and progressive company where I can best utilise my newly acquired skills and continue to develop and grow as a coder.
 
 ## Skills
 
@@ -10,9 +10,9 @@ I am looking for a back-end or full-stack role in an exciting and forward-thinki
 
 I have learnt how to build web and mobile apps across two primary language stacks - Ruby (Ruby-on-Rails) and Javascript (AngularJS / Node) - and have extended my skillset to build hybrid mobile apps using Ionic.
 
-Within this, I have learnt to implement TDD and version control methodologies (e.g. Git) and have a detailed understanding of key testing technologies across many frameworks (e.g. Rspec, Capybara, Jasmine, Karma, Protractor)
+Within this, I have learnt to implement TDD and version control methodologies (e.g. Git) and have a detailed understanding of key testing technologies across many frameworks (e.g. Rspec, Capybara, Karma, Protractor)
 
-Everything I have learnt at Makers Academy came to the fore in a recent hackathon. At the [2015 Euromoney Techsprint](http://graduates.euromoneyplc.com/techsprint/), myself and my team won three awards including 'Most Complete Product', 'Best Use Of Technology' and 'Overall Best Project'.
+Everything I have learnt at Makers Academy came to the fore in a recent hackathon. At the [2015 Euromoney Techsprint](http://graduates.euromoneyplc.com/techsprint/), myself and my team won three awards including '_Most Complete Product_', '_Best Use Of Technology_' and '_Overall Best Project_'.
 
 Below are four of my favourite projects developed during my time at Makers Academy and beyond.
 
@@ -24,8 +24,8 @@ Below are four of my favourite projects developed during my time at Makers Acade
 | [rand(Cast)](https://github.com/ShuflCast/randCast)  | A mobile app to aid and simplify podcast discovery, built for my final project  | Ionic, AngularJS, Ruby, Sinatra, Heroku  |
 
 #### Management and Team Working
-- I Mentored and coached two direct reports in managerial role at M-Biz Global including their onboarding process and continued development.
-- I Worked with an Agile methodology in all group work at Makers Academy, including final project [rand(Cast)](https://github.com/ShuflCast/randCast) in which I often led standups and utilised tools such as waffle.io to manage distributed code-bases and pairing teams.
+- I mentored and coached two direct reports in managerial role at M-Biz Global including their onboarding process and continued development.
+- I worked with an Agile methodology in all group work at Makers Academy, including final project [rand(Cast)](https://github.com/ShuflCast/randCast) in which I often led standups and utilised tools such as waffle.io to manage distributed code-bases and pairing teams.
 - I have invaluable experience dealing with multi-branched GitHub repos and merge conflicts.
 
 #### Problem Solving
