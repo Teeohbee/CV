@@ -30,7 +30,7 @@ Below are four of my favourite projects developed during my time at Makers Acade
 
 #### Problem Solving
 - I enjoyed 'debugging' long before encountering code, in identifying and fixing errors in complex excel spreadsheets and financial calculations while in my role as Accounts Receivable Assistant Manager at M-Biz Global.
-- I continued to develop the skill at Makers Academy, enjoying the process of systematically working through a problem, providing innovative solutions.
+- I continued to develop the skill at Makers Academy, enjoying the process of systematically working through a problem.
 
 ## Education
 
@@ -50,7 +50,7 @@ Highly selective twelve week intensive coding bootcamp.
 
 ## Experience
 
-**The Independent Online** (Ongoing)  
+**The Independent Online** (July 2014 - June 2015)  
 *Games Reviewer (Voluntary)*
 
 **Concerto Group** (March 2015 - June 2015)   
