@@ -1,4 +1,5 @@
 # Toby Clarke
+teeohbee@gmail.com | 07919376807
 
 I am an eager junior web developer. After a successful four year career in accounting, I wanted to explore a new career path that would utilise both a logical and creative mindset. Having completed an intense twelve week coding bootcamp at [Makers Academy](http://www.makersacademy.com/), I have fallen for the charms of coding and software development.
 
