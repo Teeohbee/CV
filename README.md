@@ -51,8 +51,11 @@ Highly selective twelve week intensive coding bootcamp.
 
 ## Experience
 
+**Euromoney Institutional Investor PLC** (January 2016 - Present)  
+*Graduate Developer*
+
 **The Independent Online** (July 2014 - June 2015)  
-*Games Reviewer (Voluntary)*
+*Games Reviewer (Ad-Hoc voluntary work)*
 
 **Concerto Group** (March 2015 - June 2015)   
 *Growth Hacker Internship*
