@@ -13,7 +13,7 @@ I have learnt how to build web and mobile apps across two primary language stack
 
 Within this, I have learnt to implement TDD and version control methodologies (e.g. Git) and have a detailed understanding of key testing technologies across many frameworks (e.g. Rspec, Capybara, Karma, Protractor)
 
-Everything I have learnt at Makers Academy came to the fore in a recent hackathon. At the [2015 Euromoney Techsprint](http://graduates.euromoneyplc.com/techsprint/), myself and my team won three awards including '_Most Complete Product_', '_Best Use Of Technology_' and '_Overall Best Project_'.
+Everything I have learnt at Makers Academy came to the fore in a recent hackathon. At the [2015 Euromoney Techsprint](http://graduates.euromoneyplc.com/techsprint-2015/), myself and my team won three awards including '_Most Complete Product_', '_Best Use Of Technology_' and '_Overall Best Project_'.
 
 Below are four of my favourite projects developed during my time at Makers Academy and beyond.
 
